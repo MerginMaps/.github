@@ -2,6 +2,11 @@
 
 <img src="images/MM_logo_HORIZ_COLOR_PRIMARY.jpg" width=350>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MerginMaps/.github/main/images/MM_logo_HORIZ_COLOR_NEGATIVE_VECTOR.svg">
+  <img src="https://raw.githubusercontent.com/MerginMaps/.github/main/images/MM_logo_HORIZ_COLOR_PRIMARY_VECTOR.svg">
+</picture>
+
 Collect. Share. Publish.
 
 - Store and track changes to your geo-data with [Mergin Maps](https://merginmaps.com) 💿

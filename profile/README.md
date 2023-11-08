@@ -8,7 +8,7 @@
 Collect. Share. Publish.
 
 - Store and track changes to your geo-data with [Mergin Maps](https://merginmaps.com) 💿
-- Capture geo-info easily through your mobile or tablet with [Mergin Maps mobile app](https://github.com/MerginMaps/input) 📱
+- Capture geo-info easily through your mobile or tablet with [Mergin Maps mobile app](https://github.com/MerginMaps/mobile) 📱
 - Setup and analyse the project on desktop with [QGIS](https://qgis.org) 💻
 - All open-source and easily integrated to your existing toolset 💡
 

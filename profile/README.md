@@ -14,6 +14,8 @@ Collect. Share. Publish.
 
 <div><a href="https://raw.githubusercontent.com/MerginMaps/.github/main/images/mm_app-1.jpg"><img src="https://raw.githubusercontent.com/MerginMaps/.github/main/images/mm_app-1-800x600.jpg"></div>
 
+<br />
+
 For more information on how to use the app, see [Documentation](https://merginmaps.com/docs).
 
 <div><img align="left" width="45" height="45" src="https://raw.githubusercontent.com/MerginMaps/docs/main/src/.vuepress/public/slack.svg"><a href="https://merginmaps.com/community/join">Join our community chat</a><br/>and ask questions!</div>

@@ -12,9 +12,7 @@ Collect. Share. Publish.
 - Setup and analyse the project on desktop with [QGIS](https://qgis.org) 💻
 - All open-source and easily integrated to your existing toolset 💡
 
-<picture>
-  <img width=350 src="https://raw.githubusercontent.com/MerginMaps/.github/main/images/mm_app-1.jpg">
-</picture>
+<div><a href="https://raw.githubusercontent.com/MerginMaps/.github/main/images/mm_app-1.jpg"><img src="https://raw.githubusercontent.com/MerginMaps/.github/main/images/mm_app-1-800x600.jpg"></div>
 
 For more information on how to use the app, see [Documentation](https://merginmaps.com/docs).
 

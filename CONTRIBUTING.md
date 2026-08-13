@@ -10,10 +10,10 @@ There are several ways you can help improve Mergin Maps:
 - **🌏 Translations:** Helping us [translate the mobile app]().
 - **📣 Spreading the Word:** Sharing your experience by giving talks or using social media.
 - **🤯 Reporting Problems:** Submitting bug reports or issues to our [support](https://support.merginmaps.com/new-ticket).
-- **💡 Suggesting Changes:** Proposing new features or improvements on our [Wishlist](https://wishlist.merginmaps.com/).
+- **💡 Suggesting Changes:** Proposing new features or improvements on our [wishlist](https://community.merginmaps.com/b/wishlist/).
 - **💸 Financial Support:** Donate or subscribe to the [Mergin Maps Cloud](https://merginmaps.com/) service to help us maintain the project.
 
-If you need help or guidance with any of these contribution types, please reach out in our [community chat](https://merginmaps.com/community/join).
+If you need help or guidance with any of these contribution types, please reach out in our [community](https://community.merginmaps.com/).
 
 ## Code Submission Guidelines
 
@@ -43,6 +43,6 @@ All new features or substantial changes must be discussed and approved by a core
 If you have questions about implementation details, testing, or need general assistance, we encourage discussion:
 
 - **Technical Discussions:** For details on specific code changes, please use the comments on the relevant Issue.
-- **Community Chat:** For real-time help, general questions, or to connect with other contributors, please join our community chat: https://merginmaps.com/community/join.
+- **Community:** For help, general questions, or to share ideas with others, join our community: https://community.merginmaps.com/.
 
 Thank you for contributing 💙 — we appreciate your time and expertise!
